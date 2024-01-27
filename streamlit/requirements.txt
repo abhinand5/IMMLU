@@ -1,0 +1,4 @@
+googletrans
+pandas
+streamlit
+datasets
