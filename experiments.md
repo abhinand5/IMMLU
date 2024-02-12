@@ -10,7 +10,7 @@
 
 ## Experiment 2: Translating the MMLU Dataset Using the Google Translation API
 
-You can find an example in the [google_translate_api_examples](notebooks/google_translate_api_examples.ipynb) notebook. Here we translate 10 samples of MMLU dataset to Tamil.
+You can find an example in the [google_translate_api_examples](notebooks/google_translate_api_examples.ipynb) notebook. Due to our familiarity with the Tamil language, we translated the MMLU dataset to Tamil in batches of 100. The resultant data is in numbered CSV files in the [data folder](data/)
 
 ## Experiment 3: Using a Streamlit app to show question, answer, combination in a translated language to get approval
 
